@@ -3,7 +3,11 @@ test
 
 
 test2dgsdgfgsfdg
+<<<<<<< HEAD
 cccccccccdddddddddddddddddddddddd
+=======
+cccccccccddddddffffff
+>>>>>>> feature/fortuna-100/yano_002
 vvvvvvvvddddddddd
 eee
 
